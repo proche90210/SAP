@@ -14,6 +14,8 @@ public class Main {
 		facade.generateSequence(sequenceNum);
 		
 		System.out.println("Print 1");
+		System.out.println("Print 2");
+		
 	}
 
 }
