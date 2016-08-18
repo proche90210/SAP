@@ -15,7 +15,10 @@ public class Main {
 		
 		System.out.println("Print 1");
 		System.out.println("Print 2");
-		System.out.println("Print displayData");
+		for (int i = 0; i < 3; i++) {
+			System.out.println("Print displayData");
+		}
+		
 	}
 
 }
