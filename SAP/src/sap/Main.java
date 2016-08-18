@@ -12,6 +12,8 @@ public class Main {
 	public static void main(String[] args) {
 		Facade facade = new Facade();
 		facade.generateSequence(sequenceNum);
+		
+		System.out.println("Print 1");
 	}
 
 }
